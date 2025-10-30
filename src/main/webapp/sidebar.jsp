@@ -32,7 +32,8 @@
                   </li>
                   <li><a><i class="fa fa-suitcase"></i> Produtos <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="produto.jsp">Listar Produtos</a></li>
+                      <li><a href="produto.jsp">Lista de Produtos</a></li>
+                      <li><a href="produto_editar.jsp">Produto</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-cart-plus"></i> Vendas <span class="fa fa-chevron-down"></span></a>

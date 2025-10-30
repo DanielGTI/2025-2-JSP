@@ -25,7 +25,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="x_panel">
                         <div class="x_title">
-                            <h2>Lista de Livros</h2>
+                            <h2>Edição de Livros</h2>
                             <ul class="nav navbar-right panel_toolbox">
                                 <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                                 </li>
@@ -43,40 +43,7 @@
                         </div>
                         <div class="x_content">
 
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>#</th>
-                                        <th>Nome do Livro</th>
-                                        <th>Autor</th>
-                                        <th>Edição</th>
-                                        <th>Editar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">1</th>
-                                        <td>Treinamento em Linguagem C</td>
-                                        <td>Victorine Viviane Mizrahi</td>
-                                        <td>20</td>
-                                        <td class="center"><a href="./produto_editar.jsp" ><i class="fa fa-pencil"></i></a></td>                                       
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">2</th>
-                                        <td>Desenvolvendo Websites com PHP</td>
-                                        <td>Juliano Niederauer</td>
-                                        <td>3</td>
-                                        <td class="center"><a href="./produto_editar.jsp" ><i class="fa fa-pencil"></i></a></td>                                       
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">3</th>
-                                        <td>Php&mysql</td>
-                                        <td>Eveline Vieira Machado</td>
-                                        <td>1</td>
-                                        <td class="center"><a href="./produto_editar.jsp" ><i class="fa fa-pencil"></i></a></td>                                       
-                                    </tr>
-                                </tbody>
-                            </table>
+                       
 
                         </div>
                     </div>
