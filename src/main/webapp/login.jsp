@@ -6,17 +6,21 @@
       <div class="login_wrapper">
         <div class="animate form login_form">
           <section class="login_content">
-            <form>
+            <form action="./Logar" method="post">
               <h1>Login do Sistema</h1>
               <div>
-                <input type="text" class="form-control" placeholder="Usuário" required="" />
+                <input type="text" name="user" id="user" class="form-control" placeholder="Usuário" required="" />
               </div>
               <div>
-                <input type="password" class="form-control" placeholder="Senha" required="" />
+                <input type="password" name="senha" id="senha" class="form-control" placeholder="Senha" required="" />
               </div>
               <div>
+                <input type="submit" value="Logar">
+                  
+                <!--
                 <a class="btn btn-default submit" href="principal.jsp">Entrar</a>
                 <a class="reset_pass" href="#">Esqueceu a sua senha?</a>
+                -->
               </div>
 
               <div class="clearfix"></div>
